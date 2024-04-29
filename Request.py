@@ -1,7 +1,7 @@
 from telegram.ext import Updater, CommandHandler
 
 # Botunuzun token'ını buraya ekleyin
-TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"
+TOKEN = "6931338087:AAEJnBmJ3OQe3VsW91EiFBmO_uXMX9bJ8jM" #"YOUR_TELEGRAM_BOT_TOKEN"
 
 # Botunuzun butonuna tıklandığında bu fonksiyonu çağırın
 def start(update, context):
